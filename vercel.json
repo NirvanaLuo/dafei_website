@@ -1,0 +1,6 @@
+{
+  "buildCommand": "pnpm next build",
+  "devCommand": "pnpm next dev --port 5000",
+  "installCommand": "pnpm install",
+  "framework": "nextjs"
+}
